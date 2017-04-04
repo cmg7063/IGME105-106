@@ -1,0 +1,15 @@
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe.config
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.pdb
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.pdb
+C:\Users\Corinne Green\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe.config
+C:\Users\Corinne Green\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.exe
+C:\Users\Corinne Green\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.pdb
+C:\Users\Corinne Green\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe
+C:\Users\Corinne Green\Desktop\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.pdb
+C:\Users\Corinne Green\Desktop\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\GDAPS Projects\RandomNumberGame\RandomNumberGame\bin\Debug\RandomNumberGame.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\RandomNumberGame\RandomNumberGame\obj\Debug\RandomNumberGame.pdb

@@ -1,0 +1,89 @@
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\HW2.exe
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\HW2.pdb
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Corinne Green\Desktop\HW2\HW2\obj\x86\Debug\HW2.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\HW2\HW2\obj\x86\Debug\HW2.exe
+C:\Users\Corinne Green\Desktop\HW2\HW2\obj\x86\Debug\HW2.pdb
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\Content\Background.xnb
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\Content\Sophie.xnb
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\Content\Collectible.xnb
+C:\Users\Corinne Green\Desktop\HW2\HW2\bin\Windows\Debug\Content\SpriteFont1.xnb
+Z:\HW2\HW2\obj\x86\Debug\HW2.exe
+Z:\HW2\HW2\obj\x86\Debug\HW2.pdb
+Z:\HW2\HW2\bin\Windows\Debug\Content\Background.xnb
+Z:\HW2\HW2\bin\Windows\Debug\Content\Sophie.xnb
+Z:\HW2\HW2\bin\Windows\Debug\Content\Collectible.xnb
+Z:\HW2\HW2\bin\Windows\Debug\Content\SpriteFont1.xnb
+Z:\HW2\HW2\bin\Windows\Debug\HW2.exe
+Z:\HW2\HW2\bin\Windows\Debug\HW2.pdb
+Z:\HW2\HW2\bin\Windows\Debug\MonoGame.Framework.dll
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.dll
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.XAudio2.dll
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.DXGI.dll
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.XInput.dll
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.RawInput.dll
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+Z:\HW2\HW2\bin\Windows\Debug\MonoGame.Framework.xml
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.xml
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.XAudio2.xml
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.DXGI.xml
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.XInput.xml
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.RawInput.xml
+Z:\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+Z:\HW2\HW2\obj\x86\Debug\HW2.csprojResolveAssemblyReference.cache
+Z:\IGMProfile\VS Projects\HW2\HW2\obj\x86\Debug\HW2.exe
+Z:\IGMProfile\VS Projects\HW2\HW2\obj\x86\Debug\HW2.pdb
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\Content\Background.xnb
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\Content\Sophie.xnb
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\Content\Collectible.xnb
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\Content\SpriteFont1.xnb
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\HW2.exe
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\HW2.pdb
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\MonoGame.Framework.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.XAudio2.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D11.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.DXGI.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.Direct2D1.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.XInput.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.RawInput.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D9.dll
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\MonoGame.Framework.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.XAudio2.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D11.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.DXGI.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.Direct2D1.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.XInput.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.RawInput.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\bin\Windows\Debug\SharpDX.Direct3D9.xml
+Z:\IGMProfile\VS Projects\HW2\HW2\obj\x86\Debug\HW2.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\HW2\HW2\obj\x86\Debug\HW2.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\HW2\HW2\obj\x86\Debug\HW2.pdb

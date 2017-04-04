@@ -1,0 +1,26 @@
+C:\Users\Corinne Green\Desktop\PE7\PE7\bin\WindowsGL\Debug\PE7.exe
+C:\Users\Corinne Green\Desktop\PE7\PE7\bin\WindowsGL\Debug\PE7.pdb
+C:\Users\Corinne Green\Desktop\PE7\PE7\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Corinne Green\Desktop\PE7\PE7\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Corinne Green\Desktop\PE7\PE7\obj\x86\Debug\PE7.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\PE7\PE7\obj\x86\Debug\PE7.exe
+C:\Users\Corinne Green\Desktop\PE7\PE7\obj\x86\Debug\PE7.pdb
+C:\Users\Corinne Green\Desktop\PE7\PE7\bin\WindowsGL\Debug\Content\image.xnb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7\PE7\obj\x86\Debug\PE7.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7\PE7\obj\x86\Debug\PE7.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7\PE7\bin\WindowsGL\Debug\Content\image.xnb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7\PE7\bin\WindowsGL\Debug\PE7.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7\PE7\bin\WindowsGL\Debug\PE7.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7\PE7\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7\PE7\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7\PE7\obj\x86\Debug\PE7.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7\PE7\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7&8\PE7\obj\x86\Debug\PE7.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7&8\PE7\obj\x86\Debug\PE7.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7&8\PE7\bin\WindowsGL\Debug\Content\image.xnb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7&8\PE7\bin\WindowsGL\Debug\Content\SpriteFont1.xnb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7&8\PE7\bin\WindowsGL\Debug\PE7.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7&8\PE7\bin\WindowsGL\Debug\PE7.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7&8\PE7\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7&8\PE7\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE7&8\PE7\obj\x86\Debug\PE7.csprojResolveAssemblyReference.cache

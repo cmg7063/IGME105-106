@@ -1,0 +1,15 @@
+E:\Homework 4\Homework 4\bin\Debug\Homework 4.exe.config
+E:\Homework 4\Homework 4\obj\Debug\Homework 4.csprojResolveAssemblyReference.cache
+E:\Homework 4\Homework 4\bin\Debug\Homework 4.exe
+E:\Homework 4\Homework 4\bin\Debug\Homework 4.pdb
+E:\Homework 4\Homework 4\obj\Debug\Homework 4.exe
+E:\Homework 4\Homework 4\obj\Debug\Homework 4.pdb
+C:\Users\Bella\Desktop\Homework 4\Homework 4\bin\Debug\Homework 4.exe.config
+C:\Users\Bella\Desktop\Homework 4\Homework 4\bin\Debug\Homework 4.exe
+C:\Users\Bella\Desktop\Homework 4\Homework 4\bin\Debug\Homework 4.pdb
+C:\Users\Bella\Desktop\Homework 4\Homework 4\obj\Debug\Homework 4.csprojResolveAssemblyReference.cache
+C:\Users\Bella\Desktop\Homework 4\Homework 4\obj\Debug\Homework 4.exe
+C:\Users\Bella\Desktop\Homework 4\Homework 4\obj\Debug\Homework 4.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\HW4\Homework 4\bin\Debug\Homework 4.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\HW4\Homework 4\obj\Debug\Homework 4.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\HW4\Homework 4\obj\Debug\Homework 4.pdb

@@ -1,0 +1,16 @@
+C:\IGME106\Lecture\Day25\10-12\CustomStack\CustomStack\bin\Debug\CustomStack.exe
+C:\IGME106\Lecture\Day25\10-12\CustomStack\CustomStack\bin\Debug\CustomStack.pdb
+C:\IGME106\Lecture\Day25\10-12\CustomStack\CustomStack\obj\x86\Debug\CustomStack.csprojResolveAssemblyReference.cache
+C:\IGME106\Lecture\Day25\10-12\CustomStack\CustomStack\obj\x86\Debug\CustomStack.exe
+C:\IGME106\Lecture\Day25\10-12\CustomStack\CustomStack\obj\x86\Debug\CustomStack.pdb
+C:\IGME106 ONLINE\Lecture\Week10\PE15 Starter Code\CustomStack\CustomStack\obj\x86\Debug\CustomStack.exe
+C:\IGME106 ONLINE\Lecture\Week10\PE15 Starter Code\CustomStack\CustomStack\obj\x86\Debug\CustomStack.pdb
+Z:\GDAPS II VS\PE17 Base Code\CustomStack\CustomStack\obj\x86\Debug\CustomStack.exe
+Z:\GDAPS II VS\PE17 Base Code\CustomStack\CustomStack\obj\x86\Debug\CustomStack.pdb
+Z:\GDAPS II VS\PE17 Base Code\CustomStack\CustomStack\bin\Debug\CustomStack.exe
+Z:\GDAPS II VS\PE17 Base Code\CustomStack\CustomStack\bin\Debug\CustomStack.pdb
+Z:\GDAPS II VS\PE17 Base Code\CustomStack\CustomStack\obj\x86\Debug\CustomStack.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\PE17 Base Code (Completed)\CustomStack\CustomStack\obj\x86\Debug\CustomStack.exe
+C:\Users\Corinne Green\Desktop\PE17 Base Code (Completed)\CustomStack\CustomStack\obj\x86\Debug\CustomStack.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE17 Base Code (Completed)\CustomStack\CustomStack\obj\x86\Debug\CustomStack.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE17 Base Code (Completed)\CustomStack\CustomStack\obj\x86\Debug\CustomStack.pdb

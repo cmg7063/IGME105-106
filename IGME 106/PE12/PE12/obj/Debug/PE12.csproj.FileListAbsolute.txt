@@ -1,0 +1,12 @@
+Z:\IGMProfile\VS Projects\PE12\PE12\bin\Debug\PE12.exe.config
+Z:\IGMProfile\VS Projects\PE12\PE12\bin\Debug\PE12.exe
+Z:\IGMProfile\VS Projects\PE12\PE12\bin\Debug\PE12.pdb
+Z:\IGMProfile\VS Projects\PE12\PE12\obj\Debug\PE12.csprojResolveAssemblyReference.cache
+Z:\IGMProfile\VS Projects\PE12\PE12\obj\Debug\PE12.exe
+Z:\IGMProfile\VS Projects\PE12\PE12\obj\Debug\PE12.pdb
+C:\Users\Corinne Green\Desktop\PE12\PE12\bin\Debug\PE12.exe.config
+C:\Users\Corinne Green\Desktop\PE12\PE12\obj\Debug\PE12.exe
+C:\Users\Corinne Green\Desktop\PE12\PE12\obj\Debug\PE12.pdb
+C:\Users\Corinne Green\Desktop\PE12\PE12\bin\Debug\PE12.exe
+C:\Users\Corinne Green\Desktop\PE12\PE12\bin\Debug\PE12.pdb
+C:\Users\Corinne Green\Desktop\PE12\PE12\obj\Debug\PE12.csprojResolveAssemblyReference.cache

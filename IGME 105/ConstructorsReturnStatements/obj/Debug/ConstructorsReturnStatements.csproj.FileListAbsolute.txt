@@ -1,0 +1,8 @@
+\\banner.main.ad.rit.edu\students\cmg7063\igmprofile\documents\visual studio 2015\Projects\ConstructorsReturnStatements\ConstructorsReturnStatements\bin\Debug\ConstructorsReturnStatements.exe.config
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\ConstructorsReturnStatements\bin\Debug\ConstructorsReturnStatements.exe.config
+C:\Users\Corinne Green\Desktop\ConstructorsReturnStatements\bin\Debug\ConstructorsReturnStatements.exe.config
+C:\Users\Corinne Green\Desktop\ConstructorsReturnStatements\obj\Debug\ConstructorsReturnStatements.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\ConstructorsReturnStatements\bin\Debug\ConstructorsReturnStatements.exe
+C:\Users\Corinne Green\Desktop\ConstructorsReturnStatements\bin\Debug\ConstructorsReturnStatements.pdb
+C:\Users\Corinne Green\Desktop\ConstructorsReturnStatements\obj\Debug\ConstructorsReturnStatements.exe
+C:\Users\Corinne Green\Desktop\ConstructorsReturnStatements\obj\Debug\ConstructorsReturnStatements.pdb

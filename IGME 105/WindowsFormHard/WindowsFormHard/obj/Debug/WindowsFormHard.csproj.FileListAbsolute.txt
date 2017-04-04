@@ -1,0 +1,6 @@
+C:\Users\Corinne Green\Desktop\WindowsFormHard\WindowsFormHard\bin\Debug\WindowsFormHard.exe.config
+C:\Users\Corinne Green\Desktop\WindowsFormHard\WindowsFormHard\bin\Debug\WindowsFormHard.exe
+C:\Users\Corinne Green\Desktop\WindowsFormHard\WindowsFormHard\bin\Debug\WindowsFormHard.pdb
+C:\Users\Corinne Green\Desktop\WindowsFormHard\WindowsFormHard\obj\Debug\WindowsFormHard.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\WindowsFormHard\WindowsFormHard\obj\Debug\WindowsFormHard.exe
+C:\Users\Corinne Green\Desktop\WindowsFormHard\WindowsFormHard\obj\Debug\WindowsFormHard.pdb

@@ -1,0 +1,18 @@
+Z:\IGMProfile\VS Projects\PE4\PE4\bin\Debug\PE4.exe.config
+Z:\IGMProfile\VS Projects\PE4\PE4\bin\Debug\PE4.exe
+Z:\IGMProfile\VS Projects\PE4\PE4\bin\Debug\PE4.pdb
+Z:\IGMProfile\VS Projects\PE4\PE4\obj\Debug\PE4.exe
+Z:\IGMProfile\VS Projects\PE4\PE4\obj\Debug\PE4.pdb
+Z:\IGMProfile\VS Projects\PE4\PE4\obj\Debug\PE4.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\PE4\PE4\bin\Debug\PE4.exe.config
+C:\Users\Corinne Green\Desktop\PE4\PE4\obj\Debug\PE4.exe
+C:\Users\Corinne Green\Desktop\PE4\PE4\obj\Debug\PE4.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE4\PE4\bin\Debug\PE4.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE4\PE4\obj\Debug\PE4.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE4\PE4\obj\Debug\PE4.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\File IO\PE4\bin\Debug\PE4.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\File IO\PE4\obj\Debug\PE4.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\File IO\PE4\obj\Debug\PE4.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\File IO\PE4\bin\Debug\PE4.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\File IO\PE4\bin\Debug\PE4.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\File IO\PE4\obj\Debug\PE4.csprojResolveAssemblyReference.cache

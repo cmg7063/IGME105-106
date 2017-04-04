@@ -1,0 +1,6 @@
+C:\Users\Corinne Green\Desktop\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\Corinne Green\Desktop\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\Corinne Green\Desktop\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\Corinne Green\Desktop\Classes\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\Corinne Green\Desktop\Classes\Classes\obj\Debug\Classes.pdb

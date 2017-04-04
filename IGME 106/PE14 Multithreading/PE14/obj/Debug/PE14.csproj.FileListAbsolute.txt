@@ -1,0 +1,9 @@
+C:\Users\Corinne Green\Desktop\PE14\PE14\bin\Debug\PE14.exe.config
+C:\Users\Corinne Green\Desktop\PE14\PE14\bin\Debug\PE14.exe
+C:\Users\Corinne Green\Desktop\PE14\PE14\bin\Debug\PE14.pdb
+C:\Users\Corinne Green\Desktop\PE14\PE14\obj\Debug\PE14.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\PE14\PE14\obj\Debug\PE14.exe
+C:\Users\Corinne Green\Desktop\PE14\PE14\obj\Debug\PE14.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE14 Multithreading\PE14\bin\Debug\PE14.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE14 Multithreading\PE14\obj\Debug\PE14.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE14 Multithreading\PE14\obj\Debug\PE14.pdb

@@ -1,0 +1,6 @@
+C:\Users\Corinne Green\Desktop\Abstract\Abstract\bin\Debug\Abstract.exe.config
+C:\Users\Corinne Green\Desktop\Abstract\Abstract\bin\Debug\Abstract.exe
+C:\Users\Corinne Green\Desktop\Abstract\Abstract\bin\Debug\Abstract.pdb
+C:\Users\Corinne Green\Desktop\Abstract\Abstract\obj\Debug\Abstract.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\Abstract\Abstract\obj\Debug\Abstract.exe
+C:\Users\Corinne Green\Desktop\Abstract\Abstract\obj\Debug\Abstract.pdb

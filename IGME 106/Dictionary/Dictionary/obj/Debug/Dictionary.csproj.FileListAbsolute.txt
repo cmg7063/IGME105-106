@@ -1,0 +1,9 @@
+C:\Users\Corinne Green\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Corinne Green\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.exe
+C:\Users\Corinne Green\Desktop\Dictionary\Dictionary\bin\Debug\Dictionary.pdb
+C:\Users\Corinne Green\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Corinne Green\Desktop\Dictionary\Dictionary\obj\Debug\Dictionary.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\Dictionary\Dictionary\bin\Debug\Dictionary.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\Dictionary\Dictionary\obj\Debug\Dictionary.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\Dictionary\Dictionary\obj\Debug\Dictionary.pdb

@@ -1,0 +1,9 @@
+C:\Users\Corinne Green\Desktop\Parsing\Parsing\bin\Debug\Parsing.exe.config
+C:\Users\Corinne Green\Desktop\Parsing\Parsing\obj\Debug\Parsing.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\Parsing\Parsing\bin\Debug\Parsing.exe
+C:\Users\Corinne Green\Desktop\Parsing\Parsing\bin\Debug\Parsing.pdb
+C:\Users\Corinne Green\Desktop\Parsing\Parsing\obj\Debug\Parsing.exe
+C:\Users\Corinne Green\Desktop\Parsing\Parsing\obj\Debug\Parsing.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\Casting\Parsing\bin\Debug\Parsing.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\Casting\Parsing\obj\Debug\Parsing.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\Casting\Parsing\obj\Debug\Parsing.pdb

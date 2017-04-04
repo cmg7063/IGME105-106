@@ -1,0 +1,15 @@
+C:\IGME106 ONLINE\Exams\Exam1 - spring 2016\Exam1BaseCode\Exam1BaseCode\bin\Debug\Exam1BaseCode.exe.config
+C:\IGME106 ONLINE\Exams\Exam1 - spring 2016\Exam1BaseCode\Exam1BaseCode\bin\Debug\Exam1BaseCode.exe
+C:\IGME106 ONLINE\Exams\Exam1 - spring 2016\Exam1BaseCode\Exam1BaseCode\bin\Debug\Exam1BaseCode.pdb
+C:\IGME106 ONLINE\Exams\Exam1 - spring 2016\Exam1BaseCode\Exam1BaseCode\obj\Debug\Exam1BaseCode.csprojResolveAssemblyReference.cache
+C:\IGME106 ONLINE\Exams\Exam1 - spring 2016\Exam1BaseCode\Exam1BaseCode\obj\Debug\Exam1BaseCode.exe
+C:\IGME106 ONLINE\Exams\Exam1 - spring 2016\Exam1BaseCode\Exam1BaseCode\obj\Debug\Exam1BaseCode.pdb
+C:\Users\Corinne Green\Desktop\Exam1BaseCode\Exam1BaseCode\bin\Debug\Exam1BaseCode.exe.config
+C:\Users\Corinne Green\Desktop\Exam1BaseCode\Exam1BaseCode\obj\Debug\Exam1BaseCode.exe
+C:\Users\Corinne Green\Desktop\Exam1BaseCode\Exam1BaseCode\obj\Debug\Exam1BaseCode.pdb
+C:\Users\Corinne Green\Desktop\Exam1BaseCode\Exam1BaseCode\bin\Debug\Exam1BaseCode.exe
+C:\Users\Corinne Green\Desktop\Exam1BaseCode\Exam1BaseCode\bin\Debug\Exam1BaseCode.pdb
+C:\Users\Corinne Green\Desktop\Exam1BaseCode\Exam1BaseCode\obj\Debug\Exam1BaseCode.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\Exam1\Exam1BaseCode\bin\Debug\Exam1BaseCode.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\Exam1\Exam1BaseCode\obj\Debug\Exam1BaseCode.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\Exam1\Exam1BaseCode\obj\Debug\Exam1BaseCode.pdb

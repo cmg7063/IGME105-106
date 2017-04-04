@@ -1,0 +1,15 @@
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\InheritanceAgain\InheritanceAgain\bin\Debug\InheritanceAgain.exe.config
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\InheritanceAgain\InheritanceAgain\bin\Debug\InheritanceAgain.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\InheritanceAgain\InheritanceAgain\bin\Debug\InheritanceAgain.pdb
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\InheritanceAgain\InheritanceAgain\obj\Debug\InheritanceAgain.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\InheritanceAgain\InheritanceAgain\obj\Debug\InheritanceAgain.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\InheritanceAgain\InheritanceAgain\obj\Debug\InheritanceAgain.pdb
+C:\Users\Corinne Green\Desktop\InheritanceAgain\InheritanceAgain\bin\Debug\InheritanceAgain.exe.config
+C:\Users\Corinne Green\Desktop\InheritanceAgain\InheritanceAgain\obj\Debug\InheritanceAgain.exe
+C:\Users\Corinne Green\Desktop\InheritanceAgain\InheritanceAgain\obj\Debug\InheritanceAgain.pdb
+C:\Users\Corinne Green\Desktop\InheritanceAgain\InheritanceAgain\bin\Debug\InheritanceAgain.exe
+C:\Users\Corinne Green\Desktop\InheritanceAgain\InheritanceAgain\bin\Debug\InheritanceAgain.pdb
+C:\Users\Corinne Green\Desktop\InheritanceAgain\InheritanceAgain\obj\Debug\InheritanceAgain.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\GDAPS Projects\InheritanceAgain\InheritanceAgain\bin\Debug\InheritanceAgain.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\InheritanceAgain\InheritanceAgain\obj\Debug\InheritanceAgain.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\InheritanceAgain\InheritanceAgain\obj\Debug\InheritanceAgain.pdb

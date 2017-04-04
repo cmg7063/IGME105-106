@@ -1,0 +1,13 @@
+\\banner.main.ad.rit.edu\students\cmg7063\igmprofile\documents\visual studio 2015\Projects\CustomList\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Corinne Green\Desktop\CustomList\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Corinne Green\Desktop\CustomList\CustomList\bin\Debug\CustomList.exe
+C:\Users\Corinne Green\Desktop\CustomList\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Corinne Green\Desktop\CustomList\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\CustomList\CustomList\obj\Debug\CustomList.exe
+C:\Users\Corinne Green\Desktop\CustomList\CustomList\obj\Debug\CustomList.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\CustomList\CustomList\bin\Debug\CustomList.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\CustomList\CustomList\obj\Debug\CustomList.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\CustomList\CustomList\obj\Debug\CustomList.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\CustomList\CustomList\bin\Debug\CustomList.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\CustomList\CustomList\bin\Debug\CustomList.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\CustomList\CustomList\obj\Debug\CustomList.csprojResolveAssemblyReference.cache

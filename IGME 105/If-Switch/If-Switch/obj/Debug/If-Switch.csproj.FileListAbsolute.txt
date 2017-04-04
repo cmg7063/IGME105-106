@@ -1,0 +1,9 @@
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\If-Switch\If-Switch\bin\Debug\If-Switch.exe.config
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\If-Switch\If-Switch\bin\Debug\If-Switch.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\If-Switch\If-Switch\bin\Debug\If-Switch.pdb
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\If-Switch\If-Switch\obj\Debug\If-Switch.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\If-Switch\If-Switch\obj\Debug\If-Switch.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\If-Switch\If-Switch\obj\Debug\If-Switch.pdb
+C:\Users\Corinne Green\Desktop\If-Switch\If-Switch\bin\Debug\If-Switch.exe.config
+C:\Users\Corinne Green\Desktop\If-Switch\If-Switch\obj\Debug\If-Switch.exe
+C:\Users\Corinne Green\Desktop\If-Switch\If-Switch\obj\Debug\If-Switch.pdb

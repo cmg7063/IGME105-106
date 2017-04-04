@@ -1,0 +1,9 @@
+C:\Users\Corinne Green\Desktop\PE22\PE22\bin\Debug\PE22.exe.config
+C:\Users\Corinne Green\Desktop\PE22\PE22\bin\Debug\PE22.exe
+C:\Users\Corinne Green\Desktop\PE22\PE22\bin\Debug\PE22.pdb
+C:\Users\Corinne Green\Desktop\PE22\PE22\obj\Debug\PE22.exe
+C:\Users\Corinne Green\Desktop\PE22\PE22\obj\Debug\PE22.pdb
+C:\Users\Corinne Green\Desktop\PE22\PE22\obj\Debug\PE22.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE22\PE22\bin\Debug\PE22.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE22\PE22\obj\Debug\PE22.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\PE22\PE22\obj\Debug\PE22.pdb

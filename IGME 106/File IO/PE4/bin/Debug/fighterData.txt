@@ -1,0 +1,4 @@
+Fokker DR 1,Germany,D,A,13
+SPAD XIII,France,A,A,16
+Sopwith Camel,England,C,A,15
+Albatros B,Germany,B,A,15

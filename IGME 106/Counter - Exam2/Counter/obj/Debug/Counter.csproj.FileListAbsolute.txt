@@ -1,0 +1,12 @@
+C:\IGME106\Exams\Exam2 - spring 2014\Counter\Counter\bin\Debug\Counter.exe.config
+C:\IGME106\Exams\Exam2 - spring 2014\Counter\Counter\bin\Debug\Counter.exe
+C:\IGME106\Exams\Exam2 - spring 2014\Counter\Counter\bin\Debug\Counter.pdb
+C:\IGME106\Exams\Exam2 - spring 2014\Counter\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache
+C:\IGME106\Exams\Exam2 - spring 2014\Counter\Counter\obj\Debug\Counter.exe
+C:\IGME106\Exams\Exam2 - spring 2014\Counter\Counter\obj\Debug\Counter.pdb
+C:\Users\Corinne Green\Desktop\Counter\Counter\bin\Debug\Counter.exe.config
+C:\Users\Corinne Green\Desktop\Counter\Counter\obj\Debug\Counter.exe
+C:\Users\Corinne Green\Desktop\Counter\Counter\obj\Debug\Counter.pdb
+C:\Users\Corinne Green\Desktop\Counter\Counter\bin\Debug\Counter.exe
+C:\Users\Corinne Green\Desktop\Counter\Counter\bin\Debug\Counter.pdb
+C:\Users\Corinne Green\Desktop\Counter\Counter\obj\Debug\Counter.csprojResolveAssemblyReference.cache

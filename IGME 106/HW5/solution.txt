@@ -1,0 +1,5 @@
+Corinne Green
+
+I'm sure there are probably easier ways to code a solution to this assignment using BFS or DFS algorithms and recursion as the TA's suggested, but I chose a technique that seemed easiest to me despite requiring a lot of redundant/repetitive coding. Also, I wanted to use a method that I was comfortable and familiar with... so no Queues or Stacks.
+
+The data structure I decided to use for this assignment was a List<Peg>() or a List of Peg objects. My Peg objects resemble vertices that are connected in a graph. I hardcoded the edges between each Peg object by referencing the figure in HW5, and used the properties of the Peg object (ie. UpLeft, UpRight, Left, Right, DownRight, DownLeft) to determine whether or not a Peg is capable of being moved along a certain edge. The Peg IsEmpty property allows me to get the bool of the desired peg hole, determine whether it is true, and move the Peg there if it is (peg.IsEmpty== false). The sequence of solutions is determined by a random number generator that selects jumps until a solution is eventually found (as opposed to going from 0-14). 

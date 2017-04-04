@@ -1,0 +1,70 @@
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\bin\Debug\HellishGUI.exe.config
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\bin\Debug\HellishGUI.exe
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\bin\Debug\HellishGUI.pdb
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Properties.Resources.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.csproj.GenerateResource.Cache
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.exe
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.pdb
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormStart.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ1.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormReady.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ2.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ3.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ4.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ5.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ6.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ7.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ8.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ10.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ11.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ12.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ13.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ9.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ14.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ15.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ16.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ17.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ18.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Form20.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Form19.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Form21.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Form22.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\bin\Debug\HellishGUI.exe.config
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.pdb
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\bin\Debug\HellishGUI.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\bin\Debug\HellishGUI.pdb
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Form20.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Form21.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Form22.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ1.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ10.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ11.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ12.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ13.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ14.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ15.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ16.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ17.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ18.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ2.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ3.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ4.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ5.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ6.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ7.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ8.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormQ9.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormStart.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormReady.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Form19.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Properties.Resources.resources
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.csproj.GenerateResource.Cache
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormCen.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.FormCen.resources
+C:\Users\Corinne Green\Desktop\HellishGUI\HellishGUI\obj\Debug\HellishGUI.Form23.resources
+C:\Users\Corinne Green\Desktop\GDAPS Projects\HellishGUI\HellishGUI\bin\Debug\HellishGUI.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\HellishGUI\HellishGUI\obj\Debug\HellishGUI.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\HellishGUI\HellishGUI\obj\Debug\HellishGUI.pdb

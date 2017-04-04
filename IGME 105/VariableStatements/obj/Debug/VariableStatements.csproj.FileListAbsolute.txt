@@ -1,0 +1,12 @@
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\VariableStatements\bin\Debug\VariableStatements.exe.config
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\VariableStatements\obj\Debug\VariableStatements.csprojResolveAssemblyReference.cache
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\VariableStatements\bin\Debug\VariableStatements.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\VariableStatements\bin\Debug\VariableStatements.pdb
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\VariableStatements\obj\Debug\VariableStatements.exe
+\\banner.main.ad.rit.edu\students\cmg7063\IGMProfile\Desktop\VariableStatements\obj\Debug\VariableStatements.pdb
+C:\Users\Corinne Green\Desktop\VariableStatements\bin\Debug\VariableStatements.exe.config
+C:\Users\Corinne Green\Desktop\VariableStatements\obj\Debug\VariableStatements.exe
+C:\Users\Corinne Green\Desktop\VariableStatements\obj\Debug\VariableStatements.pdb
+C:\Users\Corinne Green\Desktop\VariableStatements\bin\Debug\VariableStatements.exe
+C:\Users\Corinne Green\Desktop\VariableStatements\bin\Debug\VariableStatements.pdb
+C:\Users\Corinne Green\Desktop\VariableStatements\obj\Debug\VariableStatements.csprojResolveAssemblyReference.cache

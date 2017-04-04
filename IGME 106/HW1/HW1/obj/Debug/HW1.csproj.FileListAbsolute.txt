@@ -1,0 +1,9 @@
+C:\Users\Corinne Green\Desktop\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\Corinne Green\Desktop\HW1\HW1\bin\Debug\HW1.exe
+C:\Users\Corinne Green\Desktop\HW1\HW1\bin\Debug\HW1.pdb
+C:\Users\Corinne Green\Desktop\HW1\HW1\obj\Debug\HW1.csprojResolveAssemblyReference.cache
+C:\Users\Corinne Green\Desktop\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\Corinne Green\Desktop\HW1\HW1\obj\Debug\HW1.pdb
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\HW1\HW1\bin\Debug\HW1.exe.config
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\HW1\HW1\obj\Debug\HW1.exe
+C:\Users\Corinne Green\Desktop\GDAPS Projects\GDAPS II\HW1\HW1\obj\Debug\HW1.pdb
